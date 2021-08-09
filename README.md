@@ -1,6 +1,8 @@
 # utility-scripts
 
-- This are a set of personal scripts that I use on day to day based
+- Set of personal scripts that I use on day to day based
+- Still on the process to upload them
+- The goal is share to who ever thinks it wil help
 
 ## Organize Download folder
 
